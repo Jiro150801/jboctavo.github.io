@@ -14,7 +14,7 @@ h1, h2, div{
     text-transform: uppercase;
 }
 
-.grid-container{
+.grid-container, .grid-container2{
     border-radius: 20px;
     display: grid;
     grid-template-columns: auto auto auto auto;
