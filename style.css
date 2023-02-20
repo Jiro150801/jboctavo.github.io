@@ -4,11 +4,12 @@ body{
     padding: 20px;
 }
 
+
 img{
     border-radius: 20px;
 }
 
-h1, h2{
+h1, h2, div{
     font-family: 'Courier New', Courier, monospace;
     text-transform: uppercase;
 }
