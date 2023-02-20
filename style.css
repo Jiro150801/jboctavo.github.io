@@ -1,0 +1,14 @@
+body{
+    margin: auto;
+    text-align: center;
+    padding: 20px;
+}
+
+img{
+    border-radius: 20px;
+}
+
+h1, h2{
+    font-family: 'Courier New', Courier, monospace;
+    text-transform: uppercase;
+}
