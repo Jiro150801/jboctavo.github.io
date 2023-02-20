@@ -14,6 +14,10 @@ h1, h2, div{
     text-transform: uppercase;
 }
 
+p{
+    text-transform: none !important;
+}
+
 .grid-container, .grid-container2{
     border-radius: 20px;
     display: grid;
